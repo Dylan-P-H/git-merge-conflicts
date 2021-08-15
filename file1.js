@@ -1,1 +1,1 @@
-var name = "Saitama vs. Goku"
+var name = "Saitama vs. God"
